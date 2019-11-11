@@ -207,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.VarastoTest">
+  <component name="RunManager" selected="Application.ohtuvarasto.main">
     <configuration name="VarastoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ohtuvarasto.test" />
       <extension name="coverage">
